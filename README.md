@@ -30,4 +30,4 @@ Exploring AWS & DevOps
 
 ## 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/ahmad-yousaf-2042aa284)
-[Email](mailto:hafizahmad1247@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hafizahmad1247@gmail.com)
