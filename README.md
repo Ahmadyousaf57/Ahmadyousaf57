@@ -21,7 +21,7 @@ Exploring AWS & DevOps
 | Project | Description | Tech | Live |
 |---|---|---|---|
 | NeoPay Web | Fintech Dashboard | Next.js, TypeScript | [Live](https://neo-pay-five.vercel.app/) |
-| NeoPay App | Mobile Wallet | React Native, Expo | [Build](expo link) |
+| NeoPay App | Mobile Wallet | React Native, Expo | [Build](https://expo.dev/accounts/ahmad_devs/projects/neopay/builds/4dac05dd-f65a-443a-b7ee-bc6cd97b63d2) |
 | AI 3D Scanner | Photo to 3D Model | Python, FastAPI, TripoSR | Local |
 | Virtual Try-On | E-Commerce | PHP, MySQL | GitHub |
 
