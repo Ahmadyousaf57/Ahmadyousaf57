@@ -2,7 +2,7 @@
 
 **DevOps & Cloud Engineer · Full-Stack Developer**
 
-Final-year BS Computer Science student at Superior University Lahore (CGPA 3.4).
+Final-year BS Computer Science student at Superior University Lahore .
 I build infrastructure as code, CI/CD pipelines, and full-stack products.
 Recently completed Cyberwing's DevOps with AWS program (Oct–Nov 2026) and a 5-month Odoo internship at an Odoo Partner in Bahrain.
 
