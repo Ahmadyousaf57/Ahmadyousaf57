@@ -83,7 +83,7 @@ Recently completed Cyberwing's DevOps with AWS program (Oct–Nov 2026) and a 5-
 
 ## 📊 GitHub Stats
 
-![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmadyousaf57&show_icons=true&theme=tokyonight&hide_border=true)
+![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmadyousaf57&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadyousaf57&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
