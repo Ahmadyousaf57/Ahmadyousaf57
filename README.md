@@ -10,7 +10,7 @@ Recently completed Cyberwing's DevOps with AWS program (Oct–Nov 2026) and a 5-
 
 ## 🚀 About Me
 
-- 🎓 BSCS — Superior University Lahore · 2023–2027 · CGPA 3.4
+- 🎓 BSCS — Superior University Lahore · 2023–2027 
 - 💼 Odoo Technical Intern @ WCG Technology Solutions, Bahrain (Jan–May 2026)
 - 🏗️ Completed Cyberwing DevOps with AWS Program (Oct–Nov 2026)
 - 📄 Co-author of 2 peer-reviewed journal papers (2026)
