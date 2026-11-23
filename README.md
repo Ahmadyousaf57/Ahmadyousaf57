@@ -1,8 +1,8 @@
 # Hi, I'm Ahmad Yousaf! 👋
 
-**DevOps & Cloud Engineer · Full-Stack Developer**
+**DevOps & Cloud Engineer · Odoo Developer · Full-Stack Developer**
 
-Final-year BS Computer Science student at Superior University Lahore .
+Final-year BS Computer Science student at Superior University Lahore (CGPA 3.4).
 I build infrastructure as code, CI/CD pipelines, and full-stack products.
 Recently completed Cyberwing's DevOps with AWS program (Oct–Nov 2026) and a 5-month Odoo internship at an Odoo Partner in Bahrain.
 
@@ -10,7 +10,7 @@ Recently completed Cyberwing's DevOps with AWS program (Oct–Nov 2026) and a 5-
 
 ## 🚀 About Me
 
-- 🎓 BSCS — Superior University Lahore · 2023–2027 
+- 🎓 BSCS — Superior University Lahore · 2023–2027 · CGPA 3.4
 - 💼 Odoo Technical Intern @ WCG Technology Solutions, Bahrain (Jan–May 2026)
 - 🏗️ Completed Cyberwing DevOps with AWS Program (Oct–Nov 2026)
 - 📄 Co-author of 2 peer-reviewed journal papers (2026)
@@ -83,8 +83,10 @@ Recently completed Cyberwing's DevOps with AWS program (Oct–Nov 2026) and a 5-
 
 ## 📊 GitHub Stats
 
-![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmadyousaf57&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadyousaf57&layout=compact&theme=tokyonight&hide_border=true)
+![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmadyousaf57&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadyousaf57&layout=compact&theme=tokyonight&hide_border=true&hide=html,css)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ahmadyousaf57&theme=tokyonight&hide_border=true)
 
 ---
 
