@@ -1,6 +1,6 @@
 # Hi, I'm Ahmad Yousaf! 👋
 
-**DevOps & Cloud Engineer · Odoo Developer · Full-Stack Developer**
+**DevOps & Cloud Engineer ·  Full-Stack Developer**
 
 Final-year BS Computer Science student at Superior University Lahore (CGPA 3.4).
 I build infrastructure as code, CI/CD pipelines, and full-stack products.
